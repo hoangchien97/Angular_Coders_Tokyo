@@ -1,0 +1,28 @@
+npm i -g @angular/cli ( i : install, -g: global )
+
+ng --version
+
+ng new folder_name
+
+ex : ng new ng-coders-tokyo 
+
+terminal : ng server -o
+
+
+install package
+
+- Angular Essentials
+	+ A snipet
+	+ path intellisense
+	+ winter is coming
+- File icon
+- Angular snippet
+- Bracket Pair Colorizer 
+
+bai 3
+
+app.component.html
+app.component.css
+
+
+
